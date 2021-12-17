@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\bin\Debug\Project_XML01.exe.config
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\bin\Debug\Project_XML01.exe
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\bin\Debug\Project_XML01.pdb
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\obj\Debug\Project_XML01.csproj.AssemblyReference.cache
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\obj\Debug\Project_XML01.Form1.resources
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\obj\Debug\Project_XML01.Properties.Resources.resources
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\obj\Debug\Project_XML01.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\obj\Debug\Project_XML01.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\obj\Debug\Project_XML01.exe
+C:\Users\kevmm\source\repos\Project_XML01\Project_XML01\obj\Debug\Project_XML01.pdb
